@@ -1,7 +1,6 @@
 <!-- 欢迎界面并展示访问次数 -->
-<h2 align="center">👋Thank You For Your Visit</h2>
+<h2 align="center">Thank You👋! For Your Visit</h2>
 <div align="center">
-<img src="https://profile-counter.glitch.me/CarelTian/count.svg" alt="访客数量">
 </div>
 </br>
 <!-- 关于我的一些生活信息 -->
@@ -21,11 +20,11 @@
 ![](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109182343149.gif)
 
 <!-- github关注活跃图表 -->
-[![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuZhangWang&theme=react-dark)](https://github.com/YuZhangWang/github-readme-activity-graph)
+[![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=CarelTian&theme=react-dark)](https://github.com/YuZhangWang/github-readme-activity-graph)
 
 <!-- Github状态 -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarelTian&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->
@@ -47,10 +46,6 @@ Frameworks and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011737.png" alt="Opencv"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011753.png" alt="Django"></code>
 
-<!-- Github粉丝点赞访客 -->
-![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
-![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yuzhangwang.yuzhangwang)
 
 
 <!-- 不错的动画 -->
