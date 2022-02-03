@@ -3,6 +3,7 @@
 <div align="center">
 </div>
 </br>
+
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
 <div align="center">
@@ -15,14 +16,11 @@
 - Coding 
 
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
-## 🏆 Github Status
-<!-- Github小动图 -->
-![](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109182343149.gif)
-
-<!-- github关注活跃图表 -->
-[![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=CarelTian&theme=react-dark)](https://github.com/YuZhangWang/github-readme-activity-graph)
+## 🎆 motto
+- Talk is cheap,show me the code.
 
 <!-- Github状态 -->
+## 🌋 status
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CarelTian&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
 </P>
