@@ -4,27 +4,6 @@
 <img src="https://profile-counter.glitch.me/CarelTian/count.svg" alt="访客数量">
 </div>
 </br>
-
-<!-- 反996运动 https://996.icu  https://github.com/996icu -->
-<div align="center">
-    <strong>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></strong>
-    </br>
-    <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-    <a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red" alt="996.TSC" /></a>
-    <a href="https://github.com/top996/top.996"><img src="https://camo.githubusercontent.com/33a2b5d1787d372c8d9c7cfbdef67ca85981252cd2a1252d71bce9ea490300bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b2d746f702e3939362d7265642e737667" alt="996.top" /></a>
-    <a href="https://fengt-t.github.io/996_list/"><img src="https://img.shields.io/badge/link-996__list-red" alt="996_list" /></a>
-    <a href="https://github.com/it-job-blacklist/996ICU.job.blacklist_company"><img src="https://img.shields.io/badge/link-job--blacklist-red" alt="job-blacklist" /></a>
-    <a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red" alt="IT-blacklist" /></a>
-    <a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success" alt="whitelist" /></a>
-    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/09024be9657c958cef4715aa7fc66bfcb11dc98be2f43763e8bf9a2742716f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4e504c2532302854686525323039393625323050726f686962697465642532304c6963656e7365292d626c75652e737667" alt="996.icu" /></a>
-    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
-    <a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
-</div>
-</br>
-
-<!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示 --> 
-[![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)  
-
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
 <div align="center">
@@ -109,81 +88,6 @@ Frameworks and Tools:
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
-<!-- StackOverFlow -->
-<a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-<img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024">
-</a>
-</br>
-<!-- CSDN -->
-<a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-<img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531">
-</a>
-</br>
-<!-- 掘金 -->
-<a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-<img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF">
-</a>
-</br>
-<!-- 知乎 -->
-<a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
-<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF">
-</a>
-</br>
-<!-- Github -->
-<a href="https://github.com/YuZhangWang" target="_blank"> 
-<img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F">
-</a>
-</br>
-<!-- Gitee -->
-<a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-<img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23">
-</a>
-</br>
-<!-- LeetCode -->
-<a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-<img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119">
-</a>
-</br>
-<!-- bilibili -->
-<a href="https://space.bilibili.com/19474542" target="_blank"> 
-<img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299">
-</a>
-</br>
-<!-- 酷安 -->
-<a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
-</a>
-</br>
-<!-- 网易云 -->
-<a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
-</a>
-</br>
-<!-- 微博 -->
-<a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23FAD441">
-</a>
-</br>
-<!-- QQ -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE">
-</a>
-</br>
-<!-- 微信 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19">
-</a>
-
-<!-- 请我喝杯柠檬红茶叭 -->
-## 💰 Buy Me A Cup Of Lemon Tea
-<!-- 支付宝 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@master/2021/09/07/20210907015229435.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/-%E6%94%AF%E4%BB%98%E5%AE%9D-blue">
-</a>
-<!-- 微信 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@master/2021/09/07/20210907015317436.png" target="_blank"> 
-<img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1-231AAD19">
-</a>
 
 <!-- 不错的动画 -->
 <div align="center">
