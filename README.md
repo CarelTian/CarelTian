@@ -7,13 +7,13 @@
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 
+- An undergraduate,StarCraft II amateur,programming enthusiast.
 </div>
 </br>
 
 <!-- 我的一些兴趣爱好信息 -->
 ## 💻 Hobbies
-- Coding 
+- Coding,sleeping
 
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
 ## 🎆 motto
