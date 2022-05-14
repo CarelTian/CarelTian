@@ -6,7 +6,7 @@
 
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
-- An undergraduate,StarCraft II amateur,programming enthusiast.
+- An undergraduate, StarCraft II amateur, programming enthusiast.
 </br>
 
 <!-- 我的一些兴趣爱好信息 -->
