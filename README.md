@@ -7,6 +7,7 @@
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
 - An undergraduate, StarCraft II amateur, programming enthusiast.
+- blog[https://careltian.github.io/](https://careltian.github.io/)
 </br>
 
 <!-- 我的一些兴趣爱好信息 -->
@@ -17,8 +18,7 @@
 ## 🎆 motto
 - Talk is cheap,show me the code.
 
-##   blog
-- ddd
+
 
 <!-- Github状态 -->
 ## 🌋 status
