@@ -17,6 +17,9 @@
 ## 🎆 motto
 - Talk is cheap,show me the code.
 
+##   blog
+<p align="left">
+<a herf="www.baidu.com" my blog>
 <!-- Github状态 -->
 ## 🌋 status
 <p align="left">
