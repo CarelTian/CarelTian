@@ -6,7 +6,7 @@
 
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
-- An postgraduate, StarCraft II and Heartstone amateur, programming enthusiast.
+- A postgraduate, StarCraft II and Heartstone amateur, programming enthusiast.
 - blog [https://careltian.github.io/](https://careltian.github.io/)
 </br>
 
