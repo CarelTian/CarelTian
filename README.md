@@ -8,18 +8,11 @@
 ## 🤵 About Me
 - A postgraduate, StarCraft II and Heartstone amateur, programming enthusiast.
 - I am dedicated to the distributed system and blockchain
-- blog [https://careltian.github.io/](https://careltian.github.io/)
 </br>
 
 <!-- 我的一些兴趣爱好信息 -->
 ## 💻 Hobbies
 - Coding,sleeping,swimming.
-
-<!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
-## 🎆 motto
-- Talk is cheap,show me the code.
-
-
 
 <!-- Github状态 -->
 ## 🌋 status
